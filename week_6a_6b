@@ -30,8 +30,6 @@ resultVoid = undefined;
 let emptyValue: null = null;
 let notAssigned: undefined = undefined;
 // Never type example
-ADITYA University 41
-WEB Application Development using MERN Stack
 function throwError(message: string): never {
 throw new Error(message);
 }
